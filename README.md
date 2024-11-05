@@ -10,3 +10,4 @@ DIPLOM
 
 2. выводим статистику через команду allure serve allure-result/
 3. hyhyhy
+4. vvk
