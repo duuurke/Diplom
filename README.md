@@ -10,4 +10,4 @@ DIPLOM
 
 2. выводим статистику через команду allure serve allure-result/
 3
-3. ы
+3. ыааа
